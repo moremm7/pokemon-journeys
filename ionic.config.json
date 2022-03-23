@@ -1,0 +1,8 @@
+{
+  "name": "Pokemon Journeys",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0ec0beff"
+}
